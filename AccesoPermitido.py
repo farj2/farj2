@@ -8,3 +8,4 @@ elif edad<18:
     print("Lo siento "+nombre+", acceso denegado")
 elif rol!=("estudiante" or "docente"):
     print("Revisa tu rol nuevamente")
+    
